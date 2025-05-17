@@ -1,7 +1,7 @@
-## PYTHON PROGRAMMMING MODULE 1
+# PYTHON PROGRAMMMING MODULE 1
 ### NAME : PREETHI D
 ### REGISTER NUMBER : 212224040250
-#Ex 02: Conditional Statements in Python: Even or Odd Checker
+# Ex 01: Conditional Statements in Python: Even or Odd Checker
 
 ## 🎯 Aim
 To write a Python program to check whether the given number is **even** or **odd** using `if...else` statements.
@@ -24,11 +24,8 @@ else:
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/4f08905f-ea30-47e7-98d7-9ee4de2c5ae5)
-![image](https://github.com/user-attachments/assets/1bb146dc-ffba-402b-a1e6-95fb70d1e7ec)
+![image](https://github.com/user-attachments/assets/5f3da795-f0cc-4dd2-a42e-55f6c07255e4)
 
-
-![image](https://github.com/user-attachments/assets/9b711cd5-c760-43c1-ab42-93236dc4cec7)
 
 ## Result
 Thus the Python Program for determining whether the given number is odd or even has been executed successfully and the output has been verified.
