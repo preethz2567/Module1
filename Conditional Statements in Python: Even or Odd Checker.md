@@ -21,8 +21,10 @@ else:
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/12f4830a-72fb-4a42-a9de-0f0beb762f58)
-![image](https://github.com/user-attachments/assets/dab80c2c-c2df-4541-aaf6-b94b4aa99115)
-![image](https://github.com/user-attachments/assets/8226fb52-dc75-43fa-808f-f2accc291a94)
+![image](https://github.com/user-attachments/assets/4f08905f-ea30-47e7-98d7-9ee4de2c5ae5)
+![image](https://github.com/user-attachments/assets/dd7d1a10-244f-4512-8272-fe0273246b38)
+
+![image](https://github.com/user-attachments/assets/9b711cd5-c760-43c1-ab42-93236dc4cec7)
 
 ## Result
+Thus the Python Program for determining whether the given number is odd or even has been executed successfully and the output has been verified.
